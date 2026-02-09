@@ -9,7 +9,7 @@ from collections import defaultdict, deque
 # ================= CONFIG =================
 
 SERVER_TEST = ["8.8.8.8", "8.8.4.4"]
-DOMAINS = ["netplg.com", "itb.ac", "itb.ac.id"]
+DOMAINS = ["netplg.com", "ui.ac.id", "itb.ac.id"]
 
 DNS_SERVER = "1.1.1.1"
 DNS_PORT = 53
